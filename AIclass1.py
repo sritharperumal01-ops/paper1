@@ -1,3 +1,7 @@
 print(10+1)
 print(10-1)
 print(1+2+3+4+5+6+7+8+9)
+print("A")
+print("B")
+print("problem for the customer")
+print(0+5)
